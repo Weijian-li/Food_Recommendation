@@ -6,7 +6,7 @@ Currently, we have a preprocessing file for the ta-feng dataset. Since none of t
 
 ## Ta-Feng dataset
 Ta-Feng is a grocery shopping dataset released by ACM RecSys, it covers products from food, office supplies to furniture. 
-The dataset collected users transaction data of 4 months, from November 2000 to February 2001. The total count of transactions in this dataset is 817741, which belong to 32266 users and 23812 products.
+The dataset collected users transaction data of 4 months, from November 2000 to February 2001. The total count of transactions in this dataset is 817741, which belong to 32266 users and 23812 products. (http://www.bigdatalab.ac.cn/benchmark/bm/dd?data=Ta-Feng)
 
 The original dataset link is disappeared, so we use the dataset in this link: https://sites.google.com/site/dataminingcourse2009/spring2016/annoucement2016/assignment3/D11-02.ZIP
 
