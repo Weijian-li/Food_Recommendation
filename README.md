@@ -2,7 +2,7 @@
 This repo contains my fun work on building a food recommendation system. It's currently an ongoing project. I'll keep updating it.
 
 ## How to use
-Currently, we have a preprocessing file for the ta-feng dataset. Since none of the previous work clearly mention the preprocessing steps, we reimplemented the steps to get the same User/Item distribution as they stated in their papers.
+Currently, we have a preprocessing file for the ta-feng dataset. We reimplemented the steps to get the same User/Item distribution as they stated in their papers.
 
 ## Ta-Feng dataset
 Ta-Feng is a grocery shopping dataset released by ACM RecSys, it covers products from food, office supplies to furniture. 
